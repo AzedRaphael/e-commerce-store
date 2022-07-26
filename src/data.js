@@ -1,0 +1,27 @@
+export const heroData = [
+    {
+        id:1,
+        title:"All",
+        route:"all"
+    },
+    {
+        id:2,
+        title:"Furnitures",
+        route:"furnitures"
+    },
+    {
+        id:3,
+        title:"Phones",
+        route:"phones"
+    },
+    {
+        id:4,
+        title:"Home-appliances",
+        route:"home-appliances"
+    },
+    {
+        id:5,
+        title:"tv",
+        route:"tv"
+    }
+]
